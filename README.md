@@ -1,5 +1,9 @@
 # fuzzlink
 
+[![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)](https://infostart.ru/1c/articles/2732470/)
+
+**Публикация на Инфостарте:** [https://infostart.ru/1c/articles/2732470/](https://infostart.ru/1c/articles/2732470/)
+
 Консольная утилита нечёткого поиска строк. Принимает массив строк и поисковый запрос, возвращает N наиболее похожих строк с коэффициентом схожести. Разработана для интеграции с внешними приложениями (например, 1С) через файловый обмен JSON.
 
 ## Требования
